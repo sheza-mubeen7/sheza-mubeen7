@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sheza Mubeen</h1>
 <h3 align="center">⚡ AI Developer | AI Agentic Workflow Expert</h3>
 
+- ⚡ Internee as AI Developer @NovelOPS.
+
 - 🔭 I’m currently working on **AI Automation & Agentic Workflows**
 
 - 🌱 I’m currently learning **Advanced LLM Orchestration**
