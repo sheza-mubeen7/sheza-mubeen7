@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Sheza Mubeen</h1>
-<h3 align="center">⚡ AI Developer | AI Agentic Workflow Architect</h3>
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/d565a7c7-0741-40ed-ab74-4440679ca7c9" alt="Sheza Mubeen" width="360" align="left" style="margin-right: 30px; border-radius: 15px; display: inline-block;">
 
+<br><br><br>
+  <div style="padding-top: 100px; display: inline-block;">
+    <h1 style="margin: 0; padding: 0;">💠 SHEZA MUBEEN 💠</h1>
+    <h3 style="margin-top: 10px; color: #94a3b8;">⚡ AI Developer | AI Agentic Workflow Architect</h3>
+  </div>
+</div>
+
+<br clear="left" />
 <p align="center">
-I enjoy turning <b>creative ideas</b> into <b>practical, interactive applications</b> 🚀  
-Focused on clean code, modern tooling, and continuous learning.
+Building intelligent systems, autonomous agents, and production-ready AI pipelines.
 </p>
 
 ## 🌐 About Me
