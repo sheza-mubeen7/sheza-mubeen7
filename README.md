@@ -3,8 +3,15 @@
 
 <br><br><br>
   <div style="padding-top: 100px; display: inline-block;">
-    <h1 style="margin: 0; padding: 0;">💠 SHEZA MUBEEN 💠</h1>
-    <h3 style="margin-top: 10px; color: #94a3b8;">⚡ AI Developer | AI Agentic Workflow Architect</h3>
+   <p align="center">
+    <h1 style="margin: 0; padding: 0;"> SHEZA MUBEEN </h1>
+
+<p align="center">
+    <a href="https://github.com/sheza-mubeen7">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&height=50&lines=Agentic+AI+Developer;Prompt+Engineer;AI+Automation+Architect;AI+Driven+Development;Claude+Code+|+Gemini+CLI;Qwen+|+LLM+Architecture" alt="Typing SVG" />
+    </a>
+  </p>
+    
   </div>
 </div>
 
