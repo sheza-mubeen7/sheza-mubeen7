@@ -4,7 +4,7 @@
 <br><br><br>
   <div style="padding-top: 100px; display: inline-block;">
    <p align="center">
-    <h1 style="margin: 0; padding: 0;"> SHEZA MUBEEN </h1>
+    <h1 style="margin: 0; padding: 0;">  </h1>
 
 <p align="center">
     <a href="https://github.com/sheza-mubeen7">
