@@ -1,8 +1,7 @@
 <div align="center" style="display: block; text-align: center; width: 100%; margin: 20px 0;">
   <img src="https://github.com/user-attachments/assets/d565a7c7-0741-40ed-ab74-4440679ca7c9" alt="Sheza Mubeen" width="360" style="border-radius: 15px; display: inline-block;">
 </div>
-
-<br><br><br>
+<br>
   <div style="padding-top: 100px; display: inline-block;">
    <p align="center">
     <h1 style="margin: 0; padding: 0;">  </h1>
